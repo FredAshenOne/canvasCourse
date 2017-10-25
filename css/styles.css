@@ -1,0 +1,12 @@
+canvas{
+  border: solid black 1px;
+  background: rgb(114, 252, 123)
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  height: 100vh;
+  width: 100vw;
+}
